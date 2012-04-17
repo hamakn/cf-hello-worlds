@@ -1,0 +1,21 @@
+Cloud Foundry Hello Worlds
+
+h2. Other Examples
+
+* Cloud Foundry Official
+http://docs.cloudfoundry.com/frameworks.html
+(Spring, Rails, Sinatra, Node, Grails, Scala)
+
+* SpringSource / cloudfoundry-samples
+https://github.com/SpringSource/cloudfoundry-samples
+(Spring, Grails, Javaweb)
+
+* Cloud Foundry Sample Applications
+https://github.com/cloudfoundry-samples
+
+* derekcollison / sample_apps
+https://github.com/derekcollison/sample_apps.git
+
+* scalatra / scalatra-sbt-prototype
+https://github.com/scalatra/scalatra-sbt-prototype
+(Scalatra)
